@@ -4,7 +4,7 @@
             "id": "OLJCESPC7Z",
             "name": "Rolex Submariner",
             "description": "A timeless dive watch, synonymous with prestige, precision, and enduring style.",
-            "picture": "static/img/products/watch.jpg",
+            "picture": "static/img/products/watch.JPG",
             "cost": 9100.00,
             "categories": ["vintage"]
         },
