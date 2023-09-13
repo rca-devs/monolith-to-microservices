@@ -42,11 +42,11 @@
         },
         {
             "id": "0PUK6V6EV0",
-            "name": "MS -  Vintage Record Player",
-            "description": "It still works.",
-            "picture": "static/img/products/record-player.jpg",
-            "cost": 65.50,
-            "categories": ["music", "vintage"]
+            "name": "MS -  Breville Espresso Machine",
+            "description": "Revolutionize your home brewing with automated precision and cafe-quality espresso.",
+            "picture": "static/img/products/coffee-machine.JPG",
+            "cost": 2199.95,
+            "categories": ["appliances"]
         },
         {
             "id": "LS4PSXUNUM",
