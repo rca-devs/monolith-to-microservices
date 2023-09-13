@@ -10,19 +10,19 @@
         },
         {
             "id": "66VCHSJNUP",
-            "name": "MS -  Vintage Camera Lens",
-            "description": "You won't have a camera to use it and it probably doesn't work anyway.",
-            "picture": "static/img/products/camera-lens.jpg",
-            "cost": 12.49,
-            "categories": ["photography", "vintage"]
+            "name": "MS -  Range Rover SUV",
+            "description": "The epitome of luxury SUVs, combining unparalleled comfort, capability, and sophistication for discerning adventurers.",
+            "picture": "static/img/products/range-rover.JPG",
+            "cost": 107400.00,
+            "categories": ["automobiles", "vintage"]
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "MS -  Home Barista Kit",
-            "description": "Always wanted to brew coffee with Chemex and Aeropress at home?",
-            "picture": "static/img/products/barista-kit.jpg",
-            "cost": 124,
-            "categories": ["cookware"]
+            "name": "MS -  University of Pennsylvania Quarter Zip",
+            "description": "Elevate casual style with this versatile, comfortable, and effortlessly cool wardrobe essential.",
+            "picture": "static/img/products/quarter-zip.JPG",
+            "cost": 149,
+            "categories": ["clothing"]
         },
         {
             "id": "L9ECAV7KIM",
