@@ -6,7 +6,7 @@
             "description": "A timeless dive watch, synonymous with prestige, precision, and enduring style.",
             "picture": "static/img/products/watch.JPG",
             "cost": 9100.00,
-            "categories": ["vintage"]
+            "categories": ["jewelry"]
         },
         {
             "id": "66VCHSJNUP",
@@ -14,14 +14,14 @@
             "description": "The epitome of luxury SUVs, combining unparalleled comfort, capability, and sophistication for discerning adventurers.",
             "picture": "static/img/products/range-rover.JPG",
             "cost": 107400.00,
-            "categories": ["automobiles", "vintage"]
+            "categories": ["automobiles"]
         },
         {
             "id": "1YMWWN1N4O",
             "name": "MS -  U. Penn Quarter Zip",
             "description": "Elevate casual style with this versatile, comfortable, and effortlessly cool wardrobe essential.",
             "picture": "static/img/products/quarter-zip.JPG",
-            "cost": 149,
+            "cost": 149.00,
             "categories": ["clothing"]
         },
         {
