@@ -2,10 +2,10 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "MS -  Vintage Typewriter",
-            "description": "This typewriter looks good in your living room.",
-            "picture": "static/img/products/typewriter.jpg",
-            "cost": 67.99,
+            "name": "MS -  Rolex Submariner",
+            "description": "A timeless dive watch, synonymous with prestige, precision, and enduring style.",
+            "picture": "static/img/products/watch.JPG",
+            "cost": 9100.00,
             "categories": ["vintage"]
         },
         {
