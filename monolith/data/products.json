@@ -26,11 +26,11 @@
         },
         {
             "id": "L9ECAV7KIM",
-            "name": "Terrarium",
-            "description": "This terrarium will looks great in your white painted living room.",
-            "picture": "static/img/products/terrarium.jpg",
-            "cost": 36.45,
-            "categories": ["gardening"]
+            "name": "Visualizing Google Cloud",
+            "description": "A comprehensive guide to harnessing the power of Google Cloud through illustrative insights.",
+            "picture": "static/img/products/book.JPG",
+            "cost": 27.99,
+            "categories": ["books"]
         },
         {
             "id": "2ZYFJ3GM2N",
