@@ -21,7 +21,7 @@
             "name": "U. Penn Quarter Zip",
             "description": "Elevate casual style with this versatile, comfortable, and effortlessly cool wardrobe essential.",
             "picture": "static/img/products/quarter-zip.JPG",
-            "cost": 149,
+            "cost": 149.00,
             "categories": ["clothing"]
         },
         {
