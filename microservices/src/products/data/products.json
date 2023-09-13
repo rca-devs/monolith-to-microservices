@@ -50,27 +50,27 @@
         },
         {
             "id": "LS4PSXUNUM",
-            "description": "You probably don't go camping that often but this is better than plastic cups.",
-            "name": "MS -  Metal Camping Mug",
-            "picture": "static/img/products/camp-mug.jpg",
-            "cost": 24.33,
-            "categories": ["cookware"]
+            "description": "Your all-in-one wrist companion, seamlessly blending technology, fitness, and style for an active lifestyle.",
+            "name": "MS -  Apple Watch",
+            "picture": "static/img/products/apple-watch.JPG",
+            "cost": 799.00,
+            "categories": ["electronics"]
         },
         {
             "id": "9SIQT8TOJO",
-            "name": "MS -  City Bike",
-            "description": "This single gear bike probably cannot climb the hills of San Francisco.",
-            "picture": "static/img/products/city-bike.jpg",
-            "cost": 789.50,
+            "name": "MS -  Trek Domane Road Bike",
+            "description": "Climb the hills of San Francisco effortlessly with this comfortable road racing machine.",
+            "picture": "static/img/products/bike.JPG",
+            "cost": 3700.00,
             "categories": ["cycling"]
         },
         {
             "id": "6E92ZMYYFZ",
-            "name": "MS -  Air Plant",
-            "description": "Have you ever wondered whether air plants need water? Buy one and figure out.",
-            "picture": "static/img/products/air-plant.jpg",
-            "cost": 12.30,
-            "categories": ["gardening"]
+            "name": "MS -  Yeti 10oz Rambler",
+            "description": "The ultimate insulated tumbler, keeping your drinks hot or cold in rugged style.",
+            "picture": "static/img/products/coffee-mug.JPG",
+            "cost": 30.00,
+            "categories": ["housewares"]
         }
     ]
 }
