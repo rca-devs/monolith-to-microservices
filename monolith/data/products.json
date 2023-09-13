@@ -14,7 +14,7 @@
             "description": "The epitome of luxury SUVs, combining unparalleled comfort, capability, and sophistication for discerning adventurers.",
             "picture": "static/img/products/range-rover.JPG",
             "cost": 107400.00,
-            "categories": ["automobiles", "vintage"]
+            "categories": ["automobiles"]
         },
         {
             "id": "1YMWWN1N4O",
