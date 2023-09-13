@@ -18,7 +18,7 @@
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "University of Pennsylvania Quarter Zip",
+            "name": "U. Penn Quarter Zip",
             "description": "Elevate casual style with this versatile, comfortable, and effortlessly cool wardrobe essential.",
             "picture": "static/img/products/quarter-zip.JPG",
             "cost": 149,
@@ -34,7 +34,7 @@
         },
         {
             "id": "2ZYFJ3GM2N",
-            "name": "Bowers and Wilkens Wireless Earbuds",
+            "name": "Bowers & Wilkens Earbuds",
             "description": "Premium sound and style, delivering an exceptional wireless audio experience.",
             "picture": "static/img/products/earbuds.JPG",
             "cost": 399.00,
