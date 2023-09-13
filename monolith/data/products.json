@@ -34,11 +34,11 @@
         },
         {
             "id": "2ZYFJ3GM2N",
-            "name": "Film Camera",
-            "description": "This camera looks like it's a film camera, but it's actually digital.",
-            "picture": "static/img/products/film-camera.jpg",
-            "cost": 2245,
-            "categories": ["photography", "vintage"]
+            "name": "Bowers and Wilkens Wireless Earbuds",
+            "description": "Premium sound and style, delivering an exceptional wireless audio experience.",
+            "picture": "static/img/products/earbuds.JPG",
+            "cost": 399.00,
+            "categories": ["electronics"]
         },
         {
             "id": "0PUK6V6EV0",
